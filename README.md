@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hello 👋! My name is Stevanato and I'm a Software Engineer specializing in scalable web applications, em busca de novos projetos</h1>
+<h1 align="center">Hello 👋! My name is Stevanato and I'm a Software Engineer specializing in scalable web applications, in search of new projects</h1>
 
 ###
 
