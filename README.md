@@ -7,10 +7,9 @@
 <br clear="both">
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Stevcomp/Stevcomp/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Stevcomp&show_icons=true&theme=tokyonight" alt="stats graph" height="165" />
   <img src="https://streak-stats.demolab.com?user=Stevcomp&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/Stevcomp/Stevcomp/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stevcomp&layout=compact&theme=tokyonight" alt="languages graph" height="165" /></div>
 
 ###
 
